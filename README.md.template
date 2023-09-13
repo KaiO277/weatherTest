@@ -1,0 +1,2 @@
+I'm KaiO
+{{ template "daily-table" .Weathers }}
